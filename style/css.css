@@ -1,0 +1,19 @@
+.header{
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.main{
+    background-color: rgb(76, 0, 255);
+    border: 1px solid black;
+    padding: 5px;
+    color: white;
+    height: 500px;
+}
+
+.foother{
+    background-color: rgb(225, 1, 255);
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+}
